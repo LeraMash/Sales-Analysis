@@ -1,5 +1,4 @@
 📊 Sales Analysis Case Study
-📌 Summary
 
 This case study analyzes daily sales data to understand performance, pricing behavior, and profitability.
 The dataset includes Date, Sales, Cost of Sales, and Quantity Sold. Additional metrics were created to support analysis and visualization.
